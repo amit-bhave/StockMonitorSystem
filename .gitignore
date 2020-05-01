@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/RBC.StockManager.Main/v15/sqlite3
+/RBC.StockManager.Main/obj/Debug
+/RBC.StockManager.Main/bin/Debug
+/RBC.StockManager.Models/obj/Debug
+/RBC.StockManager.Test/bin/Debug
+/RBC.StockManager.Test/obj/Debug
